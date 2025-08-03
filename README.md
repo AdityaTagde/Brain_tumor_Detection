@@ -98,7 +98,8 @@ Then, open the URL provided (typically `http://localhost:8501`) in your browser.
 
 ```bash
 # Save a screenshot as demo.png and use the line below:
-![App Screenshot](demo.png)
+![App Screenshot](https://github.com/AdityaTagde/Brain_tumor_Detection/blob/main/p1.png)
+![App Screenshot](https://github.com/AdityaTagde/Brain_tumor_Detection/blob/main/p2.png)
 ```
 
 ---

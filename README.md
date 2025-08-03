@@ -115,12 +115,8 @@ Then, open the URL provided (typically `http://localhost:8501`) in your browser.
 
 ### 🙋‍♂️ Author
 
-Developed by [Your Name](https://www.linkedin.com/in/your-profile)
+Developed by [Aditya Tagde]([https://www.linkedin.com/](https://www.linkedin.com/in/aditya-tagde-011989299/))
 
 ---
 
-Let me know if you'd like:
 
-* A `requirements.txt` file generated.
-* A license file (`LICENSE`).
-* README translated into Hindi or another language.

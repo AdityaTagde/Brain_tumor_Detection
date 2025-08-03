@@ -1,4 +1,3 @@
-Here’s a well-formatted and complete `README.md` tailored for your **Brain Tumor Detection Web App** built using **ResNet50** and **Streamlit**:
 
 ---
 

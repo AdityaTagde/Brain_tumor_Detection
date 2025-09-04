@@ -28,7 +28,7 @@ The **Brain Tumor Detection System** is a deep learning-powered web application 
 **Clone the repository**:
 
 ```bash
-git clone https://github.com/YourUsername/brain-tumor-detection-app.git
+git clone https://github.com/AdityaTagde/brain-tumor-detection-app.git
 cd brain-tumor-detection-app
 ```
 
